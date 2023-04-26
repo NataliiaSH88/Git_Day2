@@ -9,4 +9,6 @@ public class Sales {
 
     // 75 % off
 
+    // finale sale
+
 }
